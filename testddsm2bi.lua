@@ -1,3 +1,13 @@
+--[[
+--
+--Second-order DDSM test.
+--
+--Copyright (c) 2019-2020, Dario Sanfilippo <sanfilippo.dario at gmail dot com>
+--
+--All rights reserved.
+--
+--]]
+
 sr = 48000 * 256
 
 dofile("wav.lua")

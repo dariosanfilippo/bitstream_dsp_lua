@@ -1,3 +1,13 @@
+--[[
+--
+--Binary adder test.
+--
+--Copyright (c) 2019-2020, Dario Sanfilippo <sanfilippo.dario at gmail dot com>
+--
+--All rights reserved.
+--
+--]]
+
 local ba = require("binaryadder")
 
 local ba1 = ba:new()

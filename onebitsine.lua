@@ -1,5 +1,13 @@
--- ddsm-ed sine wave generator (bipolar)
-
+--[[
+--
+--Delta-sigma-converted sine wave.
+--
+--Copyright (c) 2019-2020, Dario Sanfilippo <sanfilippo.dario at gmail dot com>
+--
+--All rights reserved.
+--
+--]]
+--
 local samplerate = 48000 * 2^8
 local initph = 0
 

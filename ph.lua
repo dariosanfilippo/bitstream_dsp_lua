@@ -1,4 +1,12 @@
--- Radian phase generator
+--[[
+--
+--Phasor.
+--
+--Copyright (c) 2019-2020, Dario Sanfilippo <sanfilippo.dario at gmail dot com>
+--
+--All rights reserved.
+--
+--]]
 
 local phasor = {}
 phasor.__index = phasor

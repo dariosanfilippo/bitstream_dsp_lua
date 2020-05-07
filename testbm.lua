@@ -1,6 +1,15 @@
--- decent noises-shaping at 48000*1024 or 48000*2048; same behaviour in simulation and hardware testing
-
--- 16bit audio is shit, just so we rememeber: sinewaves at that bitdepth had lots of noise
+--[[
+--
+--Binary multiplier test.
+--
+--decent noises-shaping at 48000*1024 or 48000*2048; same behaviour in
+--simulation and hardware testing.
+--
+--Copyright (c) 2019-2020, Dario Sanfilippo <sanfilippo.dario at gmail dot com>
+--
+--All rights reserved.
+--
+--]]
 
 sr = 48000 * 2048
 

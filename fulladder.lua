@@ -1,3 +1,13 @@
+--[[
+--
+--Full adder.
+--
+--Copyright (c) 2019-2020, Dario Sanfilippo <sanfilippo.dario at gmail dot com>
+--
+--All rights reserved.
+--
+--]]
+--
 local fulladder = {}
 fulladder.__index = fulladder
 

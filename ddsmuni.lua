@@ -1,3 +1,13 @@
+--[[
+--
+--Unipolar first-order digital delta-sigma converter.
+--
+--Copyright (c) 2019-2020, Dario Sanfilippo <sanfilippo.dario at gmail dot com>
+--
+--All rights reserved.
+--
+--]]
+
 local ddsmuni = {}
 ddsmuni.__index = ddsmuni
 

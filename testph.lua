@@ -1,3 +1,13 @@
+--[[
+--
+--Phasor test.
+--
+--Copyright (c) 2019-2020, Dario Sanfilippo <sanfilippo.dario at gmail dot com>
+--
+--All rights reserved.
+--
+--]]
+
 sr = 192000
 local ph = require("ph")
 ph1 = ph:new(0)

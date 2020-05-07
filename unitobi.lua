@@ -1,3 +1,13 @@
+--[[
+--
+--Unipolar to bipolar conversion.
+--
+--Copyright (c) 2019-2020, Dario Sanfilippo <sanfilippo.dario at gmail dot com>
+--
+--All rights reserved.
+--
+--]]
+
 local unitobi = {}
 unitobi.__index = unitobi
 

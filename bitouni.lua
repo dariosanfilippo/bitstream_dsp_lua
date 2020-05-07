@@ -1,3 +1,13 @@
+--[[
+--
+--Bipolar to unipolar conversion.
+--
+--Copyright (c) 2019-2020, Dario Sanfilippo <sanfilippo.dario at gmail dot com>
+--
+--All rights reserved.
+--
+--]]
+
 local bitouni = {}
 bitouni.__index = bitouni
 
